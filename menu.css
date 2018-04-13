@@ -1,0 +1,26 @@
+li {
+	display:inline;
+}
+
+#starbox {
+
+
+}
+
+body{
+	margin-left: 5%
+}
+p{
+	margin-right: 45%;
+}
+
+dd{
+	display: list-item;
+	list-style-type: disc;
+}
+
+#imagebox{
+	display: inline;
+	float: right;
+	margin-right: 45%;
+}

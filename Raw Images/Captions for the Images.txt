@@ -1,0 +1,11 @@
+IMAGE:	Sir_Tim_Berners-Lee
+CAPTION:	Berners-Lee in 2014
+
+IMAGE:	Berners-Lee_announcing_W3F
+CAPTION:	Berners-Lee speaking at the launch of the World Wide Web Foundation
+
+IMAGE:	Web_Index
+CAPTION:	A global map of the web index for countries in 2014
+
+IMAGE:	CERN_web_corridor
+CAPTION:	The corridor where WWW was born. CERN, ground floor of building No.1
